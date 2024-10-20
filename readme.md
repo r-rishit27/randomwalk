@@ -40,7 +40,7 @@ The final output is a well-organized **JSON** structure that maps glands to the 
     "Testes": ["Androgens"],
     "Uterus": ["Estradiol", "Inhibin", "Prolactin", "Relaxin"]
 }
-
+```
 ### 4. Requirements
 '''
 pip install easyocr
