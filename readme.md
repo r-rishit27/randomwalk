@@ -58,8 +58,8 @@ Using **Groq's LBU-based inferencing** significantly improves the performance of
 To install the necessary libraries, use the following commands:
 
 ```
--!pip install easyocr
--!pip install langchain_groq
+!pip install easyocr
+!pip install langchain_groq
 
 ```
 
