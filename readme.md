@@ -57,9 +57,12 @@ Using **Groq's LBU-based inferencing** significantly improves the performance of
 ## Installation
 To install the necessary libraries, use the following commands:
 
-pip install easyocr
-pip install langchain_groq
+```
+-!pip install easyocr
+-!pip install langchain_groq
+
+```
 
 ## Conclusion
-This project demonstrates the successful integration of **OCR technology** and **large language models (LLMs)**, specifically the **Meta LLaMA 3.1 70B**, to extract meaningful relationships between glands and the hormones they secrete from images. By leveraging **Groq's LBU-based inferencing**, we were able to significantly optimize the process for speed and efficiency, ensuring faster execution without compromising on accuracy.
+This project demonstrates the successful integration of **OCR technology** and **large language models (LLMs)**, specifically the **Meta LLaMA 3.1 70B**, to extract meaningful relationships between class and the groups from images. By leveraging **Groq's LBU-based inferencing**, we were able to significantly optimize the process for speed and efficiency, ensuring faster execution without compromising on accuracy.
 The solution highlights the powerful combination of **OCR**, **LLMs** 
