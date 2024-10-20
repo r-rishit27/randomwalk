@@ -28,7 +28,7 @@ The final output is a well-organized **JSON** structure that maps glands to the 
     "Gland Name 1": ["Hormone A", "Hormone B"],
     "Gland Name 2": ["Hormone C", "Hormone D"]
 }
-## Why We Use Groq's LBU-Based Inferencing
+### Why We Use Groq's LBU-Based Inferencing
 Using **Groq's LBU-based inferencing** significantly improves the performance of the **Meta LLaMA model** by:
 
 - **Reducing Latency**: Groq’s **Latency-Bound Units (LBUs)** are designed to minimize the delay in model execution, allowing us to process input in real time or near real time.
