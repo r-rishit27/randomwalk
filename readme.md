@@ -1,4 +1,4 @@
-# README: Name-Enitity Relationship Extraction In Image Using OCR, Meta LLaMA 3.1 70B, and Groq for Fast LBU-Based Inferencing
+#  Name-Enitity Relationship Extraction In Image Using OCR, Meta LLaMA 3.1 70B, and Groq for Fast LBU-Based Inferencing
 
 ## Project Overview
 This project aims to extract relationships between class and groups in our case between human glands and the hormones they secrete from images we can fine-tune our prompt for any other general use also which makes it adaptable. We use **Optical Character Recognition (OCR)** for extracting text from images and the **Meta LLaMA 3.1 70B** language model to identify the relationships between glands and hormones. To optimize processing time, we leverage **Groq's LBU-based (Latency-Bound Unit) system** for fast model inferencing. The final goal is to produce a structured **JSON** output that lists glands as keys and their respective hormones as values.
