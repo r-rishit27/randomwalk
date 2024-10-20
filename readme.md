@@ -49,7 +49,6 @@ This project is part of an open-ended assessment designed to evaluate candidates
 ## Installation
 To install the necessary libraries, use the following commands:
 
-```bash
 pip install easyocr
 pip install langchain_groq
 
